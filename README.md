@@ -75,8 +75,8 @@ Complete translation coverage across all pages and components with seamless lang
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/next-construction-page.git
-   cd next-construction-page
+   git clone https://github.com/MarvelXZ/frontend_buildpro_construction.git
+   cd frontend_buildpro_construction
    ```
 
 2. **Install dependencies**
@@ -345,7 +345,7 @@ Modify services in `src/components/home/Services.tsx` and update translations in
 
 ### Deploy to Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/next-construction-page)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MarvelXZ/frontend_buildpro_construction)
 
 1. Push your code to GitHub
 2. Import project to [Vercel](https://vercel.com/)
@@ -493,7 +493,7 @@ Built with modern web technologies and best practices to deliver exceptional use
 
 If you find this project useful, please consider giving it a star on GitHub!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/next-construction-page?style=social)](https://github.com/yourusername/next-construction-page)
+[![GitHub stars](https://img.shields.io/github/stars/MarvelXZ/frontend_buildpro_construction?style=social)](https://github.com/MarvelXZ/frontend_buildpro_construction)
 
 ---
 
