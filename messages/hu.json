@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Kezdőlap",
+    "services": "Szolgáltatások",
+    "gallery": "Galéria",
+    "blog": "Blog",
+    "pricing": "Árak",
+    "contact": "Kapcsolat"
+  },
+  "hero": {
+    "title": "Építjük",
+    "titleHighlight": "az álmaid",
+    "subtitle": "Professzionális építőipari szolgáltatások több mint 15 éves tapasztalattal. Minőség, megbízhatóság és precizitás minden projektben.",
+    "cta": "Árajánlat kérése",
+    "services": "Szolgáltatásaink"
+  },
+  "about": {
+    "title": "Rólunk",
+    "titleHighlight": "",
+    "description1": "A BuildPro egy vezető építőipari vállalat Belgrádban, amely elkötelezett a legmagasabb minőségű szolgáltatások nyújtása iránt az építészet, felújítás és belsőépítészet területén.",
+    "description2": "Több mint 50 szakemberből álló csapatunkkal és 15 éves tapasztalatunkkal több száz különböző méretű projektet valósítottunk meg. Küldetésünk, hogy minden projektet a legmagasabb minőségi szabványok szerint hajtsunk végre.",
+    "stats": {
+      "experience": "Év tapasztalat",
+      "clients": "Elégedett ügyfél",
+      "projects": "Befejezett projekt"
+    },
+    "imageText": "15 év kiválósága az építőiparban"
+  },
+  "services": {
+    "title": "Szolgáltatásaink",
+    "titleHighlight": "",
+    "subtitle": "Széles körű építőipari szolgáltatásokat kínálunk az Ön igényeihez igazítva",
+    "items": {
+      "houseBuilding": { "title": "Házépítés", "desc": "Teljes építési folyamat az alapoktól a tetőig. A legmagasabb minőségű anyagokat és legújabb technológiákat használjuk." },
+      "renovation": { "title": "Felújítás", "desc": "Lakó- és kereskedelmi terek teljes felújítása. Átalakítjuk terét az Ön kívánságai szerint." },
+      "interiorDesign": { "title": "Belsőépítészet", "desc": "Kreatív megoldások belső berendezéshez. Tervezőcsapatunk funkcionális és esztétikus tereket hoz létre." },
+      "consulting": { "title": "Tanácsadás", "desc": "Szakértői tanácsadás a projekt minden szakaszához. Segítünk a helyes döntések meghozatalában." },
+      "maintenance": { "title": "Ingatlan karbantartás", "desc": "Rendszeres karbantartás és sürgősségi beavatkozások. 24/7 rendelkezésre állunk az Ön igényeihez." },
+      "exterior": { "title": "Külső munkák", "desc": "Homlokzatok, tetők, teraszok és egyéb külső munkák. Megvédjük épületét az időjárási körülményektől." }
+    }
+  },
+  "projects": {
+    "title": "Kiemelt",
+    "titleHighlight": "projektek",
+    "subtitle": "Nézze meg néhány legsikeresebb projektünket",
+    "viewAll": "Összes projekt megtekintése"
+  },
+  "cta": {
+    "title": "Készen áll a projekt indítására?",
+    "subtitle": "Lépjen kapcsolatba velünk még ma, és kapjon ingyenes konzultációt és költségbecslést",
+    "requestQuote": "Árajánlat kérése",
+    "callUs": "Hívjon minket"
+  },
+  "footer": {
+    "about": "Rólunk",
+    "aboutText": "Professzionális építőipari vállalat hosszú évek tapasztalatával lakó- és kereskedelmi épületek megvalósításában.",
+    "quickLinks": "Gyors linkek",
+    "followUs": "Kövess minket",
+    "allRightsReserved": "Minden jog fenntartva."
+  },
+  "contact": {
+    "title": "Lépjen kapcsolatba",
+    "titleHighlight": "velünk",
+    "subtitle": "Készen állunk, hogy minden kérdésére válaszoljunk és segítsünk projektjében",
+    "form": {
+      "title": "Küldjön nekünk üzenetet",
+      "name": "Teljes név",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "service": "Szolgáltatás típusa",
+      "selectService": "Válasszon szolgáltatást",
+      "services": {
+        "houseBuilding": "Házépítés",
+        "renovation": "Felújítás",
+        "interiorDesign": "Belsőépítészet",
+        "consulting": "Tanácsadás",
+        "maintenance": "Karbantartás",
+        "other": "Egyéb"
+      },
+      "message": "Üzenet",
+      "submit": "Üzenet küldése",
+      "sending": "Küldés...",
+      "successMessage": "Az üzenet sikeresen elküldve! Hamarosan felvesszük Önnel a kapcsolatot.",
+      "errorMessage": "Hiba történt. Kérjük, próbálja újra."
+    },
+    "infoTitle": "Információ",
+    "info": {
+      "phone": {
+        "title": "Telefon",
+        "value": "+381 11 123 4567"
+      },
+      "email": {
+        "title": "E-mail",
+        "value": "info@buildpro.rs"
+      },
+      "address": {
+        "title": "Cím",
+        "value": "Bulevar Kralja Aleksandra 123, Belgrád"
+      },
+      "hours": {
+        "title": "Nyitvatartás",
+        "value": "H-P: 08:00-17:00, Szo: 09:00-14:00"
+      }
+    },
+    "map": {
+      "markerTitle": "BuildPro Építőipari Vállalat",
+      "address": "Bulevar Kralja Aleksandra 123, Belgrád, Szerbia"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Izgradnja kuća",
+    "description": "Kompletan proces izgradnje od temelja do krova. Koristimo najkvalitetnije materijale i najnovije tehnologije.",
+    "icon": "FaHome"
+  },
+  {
+    "id": 2,
+    "title": "Renoviranje",
+    "description": "Potpuno renoviranje stambenih i poslovnih prostora. Transformišemo vaš prostor prema vašim željama.",
+    "icon": "FaTools"
+  },
+  {
+    "id": 3,
+    "title": "Dizajn enterijera",
+    "description": "Kreativna rešenja za unutrašnje uređenje. Naš tim dizajnera kreira funkcionalne i estetske prostore.",
+    "icon": "FaPaintRoller"
+  },
+  {
+    "id": 4,
+    "title": "Konsalting",
+    "description": "Stručno savetovanje za sve faze projekta. Pomažemo vam da donesete prave odluke.",
+    "icon": "FaClipboardList"
+  },
+  {
+    "id": 5,
+    "title": "Održavanje objekata",
+    "description": "Redovno održavanje i hitne intervencije. Dostupni smo 24/7 za vaše potrebe.",
+    "icon": "FaWrench"
+  },
+  {
+    "id": 6,
+    "title": "Eksterijerni radovi",
+    "description": "Fasade, krovovi, terase i ostali spoljašnji radovi. Štitimo vaš objekat od vremenskih uticaja.",
+    "icon": "FaBuilding"
+  }
+]

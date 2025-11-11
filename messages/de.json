@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "gallery": "Galerie",
+    "blog": "Blog",
+    "pricing": "Preise",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Wir bauen",
+    "titleHighlight": "Ihre Träume",
+    "subtitle": "Professionelle Bauleistungen mit über 15 Jahren Erfahrung. Qualität, Zuverlässigkeit und Präzision bei jedem Projekt.",
+    "cta": "Angebot anfordern",
+    "services": "Unsere Dienstleistungen"
+  },
+  "about": {
+    "title": "Über",
+    "titleHighlight": "uns",
+    "description1": "BuildPro ist ein führendes Bauunternehmen mit Sitz in Belgrad, das sich der Bereitstellung erstklassiger Dienstleistungen im Bauwesen, bei Renovierungen und Innenarchitektur verschrieben hat.",
+    "description2": "Mit einem Team von über 50 Fachleuten und 15 Jahren Erfahrung haben wir Hunderte von Projekten unterschiedlicher Größe abgeschlossen. Unsere Mission ist es, jedes Projekt mit höchsten Qualitätsstandards umzusetzen.",
+    "stats": {
+      "experience": "Jahre Erfahrung",
+      "clients": "Zufriedene Kunden",
+      "projects": "Abgeschlossene Projekte"
+    },
+    "imageText": "15 Jahre Exzellenz im Bauwesen"
+  },
+  "services": {
+    "title": "Unsere",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Wir bieten eine breite Palette von Bauleistungen, die auf Ihre Bedürfnisse zugeschnitten sind",
+    "items": {
+      "houseBuilding": { "title": "Hausbau", "desc": "Kompletter Bauprozess vom Fundament bis zum Dach. Wir verwenden hochwertigste Materialien und neueste Technologien." },
+      "renovation": { "title": "Renovierung", "desc": "Vollständige Renovierung von Wohn- und Geschäftsräumen. Wir verwandeln Ihren Raum nach Ihren Wünschen." },
+      "interiorDesign": { "title": "Innenarchitektur", "desc": "Kreative Lösungen für die Inneneinrichtung. Unser Designteam schafft funktionale und ästhetische Räume." },
+      "consulting": { "title": "Beratung", "desc": "Fachkundige Beratung für alle Projektphasen. Wir helfen Ihnen, die richtigen Entscheidungen zu treffen." },
+      "maintenance": { "title": "Gebäudewartung", "desc": "Regelmäßige Wartung und Notfalleinsätze. Wir stehen Ihnen 24/7 zur Verfügung." },
+      "exterior": { "title": "Außenarbeiten", "desc": "Fassaden, Dächer, Terrassen und andere Außenarbeiten. Wir schützen Ihr Gebäude vor Witterungseinflüssen." }
+    }
+  },
+  "projects": {
+    "title": "Ausgewählte",
+    "titleHighlight": "Projekte",
+    "subtitle": "Sehen Sie sich einige unserer erfolgreichsten Projekte an",
+    "viewAll": "Alle Projekte anzeigen"
+  },
+  "cta": {
+    "title": "Bereit, Ihr Projekt zu starten?",
+    "subtitle": "Kontaktieren Sie uns noch heute und erhalten Sie eine kostenlose Beratung und Kostenschätzung",
+    "requestQuote": "Angebot anfordern",
+    "callUs": "Rufen Sie uns an"
+  },
+  "footer": {
+    "about": "Über uns",
+    "aboutText": "Professionelles Bauunternehmen mit langjähriger Erfahrung in der Realisierung von Wohn- und Gewerbegebäuden.",
+    "quickLinks": "Schnelllinks",
+    "followUs": "Folgen Sie uns",
+    "allRightsReserved": "Alle Rechte vorbehalten."
+  },
+  "contact": {
+    "title": "Kontaktieren Sie",
+    "titleHighlight": "uns",
+    "subtitle": "Wir sind bereit, alle Ihre Fragen zu beantworten und Ihnen bei Ihrem Projekt zu helfen",
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "service": "Serviceart",
+      "selectService": "Wählen Sie einen Service",
+      "services": {
+        "houseBuilding": "Hausbau",
+        "renovation": "Renovierung",
+        "interiorDesign": "Innenarchitektur",
+        "consulting": "Beratung",
+        "maintenance": "Wartung",
+        "other": "Sonstiges"
+      },
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "successMessage": "Nachricht erfolgreich gesendet! Wir werden uns in Kürze bei Ihnen melden.",
+      "errorMessage": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+    },
+    "infoTitle": "Informationen",
+    "info": {
+      "phone": {
+        "title": "Telefon",
+        "value": "+381 11 123 4567"
+      },
+      "email": {
+        "title": "E-Mail",
+        "value": "info@buildpro.rs"
+      },
+      "address": {
+        "title": "Adresse",
+        "value": "Bulevar Kralja Aleksandra 123, Belgrad"
+      },
+      "hours": {
+        "title": "Öffnungszeiten",
+        "value": "Mo-Fr: 08:00-17:00, Sa: 09:00-14:00"
+      }
+    },
+    "map": {
+      "markerTitle": "BuildPro Bauunternehmen",
+      "address": "Bulevar Kralja Aleksandra 123, Belgrad, Serbien"
+    }
+  }
+}

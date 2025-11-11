@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Building",
+    "titleHighlight": "your dreams",
+    "subtitle": "Professional construction services with over 15 years of experience. Quality, reliability and precision in every project.",
+    "cta": "Request a quote",
+    "services": "Our services"
+  },
+  "about": {
+    "title": "About",
+    "titleHighlight": "us",
+    "description1": "BuildPro is a leading construction company based in Belgrade, dedicated to providing top-quality services in construction, renovation, and interior design.",
+    "description2": "With a team of over 50 professionals and 15 years of experience, we have completed hundreds of projects of various sizes. Our mission is to execute every project with the highest quality standards.",
+    "stats": {
+      "experience": "Years of experience",
+      "clients": "Satisfied clients",
+      "projects": "Completed projects"
+    },
+    "imageText": "15 years of excellence in construction"
+  },
+  "services": {
+    "title": "Our",
+    "titleHighlight": "services",
+    "subtitle": "We provide a wide range of construction services tailored to your needs",
+    "items": {
+      "houseBuilding": { "title": "House Construction", "desc": "Complete construction process from foundation to roof. We use the highest quality materials and latest technologies." },
+      "renovation": { "title": "Renovation", "desc": "Complete renovation of residential and commercial spaces. We transform your space according to your wishes." },
+      "interiorDesign": { "title": "Interior Design", "desc": "Creative solutions for interior decoration. Our design team creates functional and aesthetic spaces." },
+      "consulting": { "title": "Consulting", "desc": "Expert advice for all phases of the project. We help you make the right decisions." },
+      "maintenance": { "title": "Property Maintenance", "desc": "Regular maintenance and emergency interventions. We are available 24/7 for your needs." },
+      "exterior": { "title": "Exterior Work", "desc": "Facades, roofs, terraces and other exterior work. We protect your building from weather conditions." }
+    }
+  },
+  "projects": {
+    "title": "Featured",
+    "titleHighlight": "projects",
+    "subtitle": "Check out some of our most successful projects",
+    "viewAll": "View all projects"
+  },
+  "cta": {
+    "title": "Ready to start your project?",
+    "subtitle": "Contact us today and get a free consultation and cost estimate",
+    "requestQuote": "Request a quote",
+    "callUs": "Call us"
+  },
+  "footer": {
+    "about": "About us",
+    "aboutText": "Professional construction company with many years of experience in the implementation of residential and commercial buildings.",
+    "quickLinks": "Quick links",
+    "followUs": "Follow us",
+    "allRightsReserved": "All rights reserved."
+  },
+  "contact": {
+    "title": "Contact",
+    "titleHighlight": "us",
+    "subtitle": "We are ready to answer all your questions and help you with your project",
+    "form": {
+      "title": "Send us a message",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "service": "Service type",
+      "selectService": "Select a service",
+      "services": {
+        "houseBuilding": "House Construction",
+        "renovation": "Renovation",
+        "interiorDesign": "Interior Design",
+        "consulting": "Consulting",
+        "maintenance": "Maintenance",
+        "other": "Other"
+      },
+      "message": "Message",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "successMessage": "Message sent successfully! We will contact you soon.",
+      "errorMessage": "An error occurred. Please try again."
+    },
+    "infoTitle": "Information",
+    "info": {
+      "phone": {
+        "title": "Phone",
+        "value": "+381 11 123 4567"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@buildpro.rs"
+      },
+      "address": {
+        "title": "Address",
+        "value": "Bulevar Kralja Aleksandra 123, Belgrade"
+      },
+      "hours": {
+        "title": "Working hours",
+        "value": "Mon-Fri: 08:00-17:00, Sat: 09:00-14:00"
+      }
+    },
+    "map": {
+      "markerTitle": "BuildPro Construction Company",
+      "address": "Bulevar Kralja Aleksandra 123, Belgrade, Serbia"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Moderna porodična kuća",
+    "category": "građevina",
+    "image": "/images/projects/project1.jpg",
+    "description": "Izgradnja moderne porodične kuće sa 4 spavaće sobe"
+  },
+  {
+    "id": 2,
+    "title": "Renoviranje stana",
+    "category": "enterijer",
+    "image": "/images/projects/project2.jpg",
+    "description": "Kompletno renoviranje stana od 80m²"
+  },
+  {
+    "id": 3,
+    "title": "Poslovni prostor",
+    "category": "dizajn",
+    "image": "/images/projects/project3.jpg",
+    "description": "Dizajn i uređenje modernog poslovnog prostora"
+  },
+  {
+    "id": 4,
+    "title": "Vila sa bazenom",
+    "category": "građevina",
+    "image": "/images/projects/project4.jpg",
+    "description": "Luksuzna vila sa bazenom i garažom"
+  },
+  {
+    "id": 5,
+    "title": "Adaptacija kupatila",
+    "category": "enterijer",
+    "image": "/images/projects/project5.jpg",
+    "description": "Moderna adaptacija kupatila sa hidromasažom"
+  },
+  {
+    "id": 6,
+    "title": "Krovni radovi",
+    "category": "građevina",
+    "image": "/images/projects/project6.jpg",
+    "description": "Rekonstrukcija krova sa termoizolacijom"
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Domov",
+    "services": "Služby",
+    "gallery": "Galéria",
+    "blog": "Blog",
+    "pricing": "Cenník",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Stavíme",
+    "titleHighlight": "vaše sny",
+    "subtitle": "Profesionálne stavebné služby s viac ako 15-ročnými zkúsenosťami. Kvalita, spoľahlivosť a presnosť v každom projekte.",
+    "cta": "Požiadať o ponuku",
+    "services": "Naše služby"
+  },
+  "about": {
+    "title": "O",
+    "titleHighlight": "nás",
+    "description1": "BuildPro je popredná stavebná spoločnosť so sídlom v Belehrade, venujúca sa poskytovaniu špičkových služieb v oblasti výstavby, rekonštrukcie a interiérového dizajnu.",
+    "description2": "S tímom viac ako 50 odborníkov a 15-ročnými skúsenosťami sme dokončili stovky projektov rôznych veľkostí. Naším poslaním je realizovať každý projekt s najvyššími štandardami kvality.",
+    "stats": {
+      "experience": "Rokov skúseností",
+      "clients": "Spokojných klientov",
+      "projects": "Dokončených projektov"
+    },
+    "imageText": "15 rokov výnimočnosti v stavebníctve"
+  },
+  "services": {
+    "title": "Naše",
+    "titleHighlight": "služby",
+    "subtitle": "Poskytujeme širokú škálu stavebných služieb prispôsobených vašim potrebám",
+    "items": {
+      "houseBuilding": { "title": "Výstavba domov", "desc": "Kompletný proces výstavby od základov po strechu. Používame najkvalitnejšie materiály a najnovšie technológie." },
+      "renovation": { "title": "Rekonštrukcia", "desc": "Kompletná rekonštrukcia obytných a komerčných priestorov. Premeníme váš priestor podľa vašich prianí." },
+      "interiorDesign": { "title": "Interiérový dizajn", "desc": "Kreatívne riešenia pre vnútornú úpravu. Náš tím dizajnérov vytvára funkčné a estetické priestory." },
+      "consulting": { "title": "Poradenstvo", "desc": "Odborné poradenstvo pre všetky fázy projektu. Pomáhame vám robiť správne rozhodnutia." },
+      "maintenance": { "title": "Údržba budov", "desc": "Pravidelná údržba a núdzové zásahy. Sme k dispozícii 24/7 pre vaše potreby." },
+      "exterior": { "title": "Exteriérové práce", "desc": "Fasády, strechy, terasy a ostatné vonkajšie práce. Chránime vašu budovu pred poveternostnými vplyvmi." }
+    }
+  },
+  "projects": {
+    "title": "Vybrané",
+    "titleHighlight": "projekty",
+    "subtitle": "Pozrite si niektoré z našich najúspešnejších projektov",
+    "viewAll": "Zobraziť všetky projekty"
+  },
+  "cta": {
+    "title": "Pripravení začať váš projekt?",
+    "subtitle": "Kontaktujte nás ešte dnes a získajte bezplatnú konzultáciu a odhad nákladov",
+    "requestQuote": "Požiadať o ponuku",
+    "callUs": "Zavolajte nám"
+  },
+  "footer": {
+    "about": "O nás",
+    "aboutText": "Profesionálna stavebná spoločnosť s dlhoročnými skúsenosťami v realizácii obytných a komerčných budov.",
+    "quickLinks": "Rýchle odkazy",
+    "followUs": "Sledujte nás",
+    "allRightsReserved": "Všetky práva vyhradené."
+  },
+  "contact": {
+    "title": "Kontaktujte",
+    "titleHighlight": "nás",
+    "subtitle": "Sme pripravení odpovedať na všetky vaše otázky a pomôcť vám s vaším projektom",
+    "form": {
+      "title": "Pošlite nám správu",
+      "name": "Celé meno",
+      "email": "E-mail",
+      "phone": "Telefón",
+      "service": "Typ služby",
+      "selectService": "Vyberte službu",
+      "services": {
+        "houseBuilding": "Výstavba domov",
+        "renovation": "Rekonštrukcia",
+        "interiorDesign": "Interiérový dizajn",
+        "consulting": "Poradenstvo",
+        "maintenance": "Údržba",
+        "other": "Iné"
+      },
+      "message": "Správa",
+      "submit": "Odoslať správu",
+      "sending": "Odosielam...",
+      "successMessage": "Správa bola úspešne odoslaná! Čoskoro vás budeme kontaktovať.",
+      "errorMessage": "Vyskytla sa chyba. Prosím, skúste to znova."
+    },
+    "infoTitle": "Informácie",
+    "info": {
+      "phone": {
+        "title": "Telefón",
+        "value": "+381 11 123 4567"
+      },
+      "email": {
+        "title": "E-mail",
+        "value": "info@buildpro.rs"
+      },
+      "address": {
+        "title": "Adresa",
+        "value": "Bulevar Kralja Aleksandra 123, Belehrad"
+      },
+      "hours": {
+        "title": "Pracovný čas",
+        "value": "Po-Pia: 08:00-17:00, So: 09:00-14:00"
+      }
+    },
+    "map": {
+      "markerTitle": "BuildPro Stavebná spoločnosť",
+      "address": "Bulevar Kralja Aleksandra 123, Belehrad, Srbsko"
+    }
+  }
+}

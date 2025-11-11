@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Početna",
+    "services": "Usluge",
+    "gallery": "Galerija",
+    "blog": "Blog",
+    "pricing": "Cenovnik",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Gradimo",
+    "titleHighlight": "vaše snove",
+    "subtitle": "Profesionalne građevinske usluge sa preko 15 godina iskustva. Kvalitet, pouzdanost i preciznost u svakom projektu.",
+    "cta": "Zatraži ponudu",
+    "services": "Naše usluge"
+  },
+  "about": {
+    "title": "O",
+    "titleHighlight": "nama",
+    "description1": "BuildPro je vodeća građevinska kompanija sa sedištem u Beogradu, posvećena pružanju vrhunskih usluga u oblasti gradnje, renoviranja i dizajna enterijera.",
+    "description2": "Sa timom od preko 50 stručnjaka i 15 godina iskustva, realizovali smo stotine projekata različitih veličina. Naša misija je da svaki projekat izvedemo sa najvišim standardima kvaliteta.",
+    "stats": {
+      "experience": "Godina iskustva",
+      "clients": "Zadovoljnih klijenata",
+      "projects": "Završenih projekata"
+    },
+    "imageText": "15 godina izvrsnosti u građevinarstvu"
+  },
+  "services": {
+    "title": "Naše",
+    "titleHighlight": "usluge",
+    "subtitle": "Pružamo širok spektar građevinskih usluga prilagođenih vašim potrebama",
+    "items": {
+      "houseBuilding": { "title": "Izgradnja kuća", "desc": "Kompletan proces izgradnje od temelja do krova. Koristimo najkvalitetnije materijale i najnovije tehnologije." },
+      "renovation": { "title": "Renoviranje", "desc": "Potpuno renoviranje stambenih i poslovnih prostora. Transformišemo vaš prostor prema vašim željama." },
+      "interiorDesign": { "title": "Dizajn enterijera", "desc": "Kreativna rešenja za unutrašnje uređenje. Naš tim dizajnera kreira funkcionalne i estetske prostore." },
+      "consulting": { "title": "Konsalting", "desc": "Stručno savetovanje za sve faze projekta. Pomažemo vam da donesete prave odluke." },
+      "maintenance": { "title": "Održavanje objekata", "desc": "Redovno održavanje i hitne intervencije. Dostupni smo 24/7 za vaše potrebe." },
+      "exterior": { "title": "Eksterijerni radovi", "desc": "Fasade, krovovi, terase i ostali spoljašnji radovi. Štitimo vaš objekat od vremenskih uticaja." }
+    }
+  },
+  "projects": {
+    "title": "Istaknuti",
+    "titleHighlight": "projekti",
+    "subtitle": "Pogledajte neke od naših najuspešnijih realizacija",
+    "viewAll": "Pogledaj sve projekte"
+  },
+  "cta": {
+    "title": "Spremni da započnete vaš projekat?",
+    "subtitle": "Kontaktirajte nas danas i dobićete besplatnu konsultaciju i procenu troškova",
+    "requestQuote": "Zatraži ponudu",
+    "callUs": "Pozovite nas"
+  },
+  "footer": {
+    "about": "O nama",
+    "aboutText": "Profesionalna građevinska firma sa dugogodišnjim iskustvom u realizaciji stambenih i poslovnih objekata.",
+    "quickLinks": "Brzi linkovi",
+    "followUs": "Pratite nas",
+    "allRightsReserved": "Sva prava zadržana."
+  },
+  "contact": {
+    "title": "Kontaktirajte",
+    "titleHighlight": "nas",
+    "subtitle": "Spremni smo da odgovorimo na sva vaša pitanja i pomognemo vam sa vašim projektom",
+    "form": {
+      "title": "Pošaljite nam poruku",
+      "name": "Ime i prezime",
+      "email": "Email",
+      "phone": "Telefon",
+      "service": "Vrsta usluge",
+      "selectService": "Izaberite uslugu",
+      "services": {
+        "houseBuilding": "Izgradnja kuća",
+        "renovation": "Renoviranje",
+        "interiorDesign": "Dizajn enterijera",
+        "consulting": "Konsalting",
+        "maintenance": "Održavanje",
+        "other": "Ostalo"
+      },
+      "message": "Poruka",
+      "submit": "Pošalji poruku",
+      "sending": "Šaljem...",
+      "successMessage": "Poruka je uspešno poslata! Javićemo vam se uskoro.",
+      "errorMessage": "Došlo je do greške. Molimo pokušajte ponovo."
+    },
+    "infoTitle": "Informacije",
+    "info": {
+      "phone": {
+        "title": "Telefon",
+        "value": "+381 11 123 4567"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@buildpro.rs"
+      },
+      "address": {
+        "title": "Adresa",
+        "value": "Bulevar Kralja Aleksandra 123, Beograd"
+      },
+      "hours": {
+        "title": "Radno vreme",
+        "value": "Pon-Pet: 08:00-17:00, Sub: 09:00-14:00"
+      }
+    },
+    "map": {
+      "markerTitle": "BuildPro Građevinska firma",
+      "address": "Bulevar Kralja Aleksandra 123, Beograd, Srbija"
+    }
+  }
+}
